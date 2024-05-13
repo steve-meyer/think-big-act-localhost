@@ -1,0 +1,7 @@
+000000670195b57a802f06cebc7a0f6af8e4d4aa	{"id":"1", "mergeIds":["isbn:123"],             "marc": "MARC_BINARY_1", "type":"Electronic"}
+000000670195b57a802f06cebc7a0f6af8e4d4aa	{"id":"2", "mergeIds":["isbn:456"],             "marc": "MARC_BINARY_2", "type":"Electronic"}
+000000670195b57a802f06cebc7a0f6af8e4d4aa	{"id":"3", "mergeIds":["isbn:123", "isbn:456"], "marc": "MARC_BINARY_3", "type":"Print"}
+000000670195b57a802f06cebc7a0f6af8e4d4aa	{"id":"4", "mergeIds":["isbn:789"],             "marc": "MARC_BINARY_4", "type":"Electronic"}
+000000670195b57a802f06cebc7a0f6af8e4d4aa	{"id":"5", "mergeIds":["isbn:123"],             "marc": "MARC_BINARY_5", "type":"Microform"}
+ee95d64ee7ffaf709dc4fe772ce081938f5bef6a	{"id":"6", "mergeIds":[],                       "marc": "MARC_BINARY_6", "type":"Print"}
+ee95d64ee7ffaf709dc4fe772ce081938f5bef6a	{"id":"7", "mergeIds":["issn:987"],             "marc": "MARC_BINARY_7", "type":"Electronic"}
